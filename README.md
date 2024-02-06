@@ -26,9 +26,9 @@ The trained model demonstrates promising results in detecting changes related to
 
 ![Training Data](https://github.com/Aryan-xo/Satellite-Image-Segmentation-and-Change-Detection-Smart-India-Hackathon-Grand-Finale/blob/main/loss.png?raw=true)
 
-![Prediction_1]([https://github.com/username/repository/blob/main/training_data.png](https://github.com/Aryan-xo/Satellite-Image-Segmentation-and-Change-Detection-Smart-India-Hackathon-Grand-Finale/blob/main/Prediction.png?raw=true))
+![Prediction_1](https://github.com/username/repository/blob/main/training_data.png](https://github.com/Aryan-xo/Satellite-Image-Segmentation-and-Change-Detection-Smart-India-Hackathon-Grand-Finale/blob/main/Prediction.png?raw=true))
 
-![Prediction_2]([https://github.com/Aryan-xo/Satellite-Image-Segmentation-and-Change-Detection-Smart-India-Hackathon-Grand-Finale/blob/main/Prediction2.png?raw=true))
+![Prediction_2](https://github.com/Aryan-xo/Satellite-Image-Segmentation-and-Change-Detection-Smart-India-Hackathon-Grand-Finale/blob/main/Prediction2.png?raw=true))
 
 ## Conclusion
 
